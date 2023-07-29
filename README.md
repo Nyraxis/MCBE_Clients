@@ -17,11 +17,11 @@
   <p>
     The cleanest UI of a Bedrock Client i've ever seen.
     Cant believe its free.
-
-    Supports 1.20.10 and 1.20.12
+    
+   Supports 1.20.10 and 1.20.12
     -Deepfry Shader, MTIONBLRU, Customizable how Mods are displayed on screen. Example: "FPS: {Value}"
     
-    Links: https://flarial.net/faq and https://discord.gg/6YAuZ9U4Th
+ Links: https://flarial.net/faq and https://discord.gg/6YAuZ9U4Th
   </p>
   
   <h3 aling:"center"> Onix Client </h3>
