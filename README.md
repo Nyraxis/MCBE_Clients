@@ -19,7 +19,8 @@
     Cant believe its free.
     
    Supports 1.20.10 and 1.20.12
-    -Deepfry Shader, MTIONBLRU, Customizable how Mods are displayed on screen. Example: "FPS: {Value}"
+    
+  -Deepfry Shader, MTIONBLRU, Customizable how Mods are displayed on screen. Example: "FPS: {Value}"
     
  Links: https://flarial.net/faq and https://discord.gg/6YAuZ9U4Th
   </p>
@@ -35,6 +36,8 @@
   <h3> Latite Client </h3>
   <p>
   Free; Newest version supports 1.18.12, 1.19.83, 1.20, 1.20.1 and 1.20.10.
+
+  Modded Minecraft Appx file also available  
   
   Links: https://discord.gg/latite and https://github.com/Imrglop/Latite-Releases/releases/
   </p>
@@ -46,7 +49,7 @@
   </p>
 
   <h2>Upcoming Clients</h2>
-  <p>-The creator of Bedrock+ announced that they are working on a dll client: https://discord.gg/x92TtTcr2m </p>
+  <p>-The creator of Bedrock+ announced that they are working on a modmanager + launcher+ + client thingy: https://discord.gg/x92TtTcr2m </p>
   <p>-Project Lumen. https://discord.chrones.io/lumen </p>
   <p>-Wiser mod: https://discord.gg/vMwqF7AhDB</p>
   
